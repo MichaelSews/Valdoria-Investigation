@@ -1,5 +1,3 @@
-# PROJECTNAME
-
 # Valdoria-Investigation
 A renowned newspaper, The Valdorian Times 🗞️, publishes an unauthorized article accusing the leading political candidate of corruption! But was it a hack, an insider, or something else? I'll investigate this incident by analyzing logs and tracing digital footprints.
 
@@ -25,6 +23,6 @@ In cybersecurity, the obvious suspect isn't always guilty. I learnt to follow th
 
 ## Steps
 
-[Valdoria Scandal.md](https://github.com/user-attachments/files/26611769/Valdoria.Scandal.md)
+[Valdoria Scandal.md] [Valdoria Scandal.md](https://github.com/user-attachments/files/27104120/Valdoria.Scandal.md)
 
 ![valdoria-hacktivist-ps1](https://github.com/user-attachments/assets/b46e347a-97f2-4125-a3c1-b0c1243105df)
